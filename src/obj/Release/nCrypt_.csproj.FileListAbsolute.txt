@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\nCrypt_\bin\Release\nCrypt.exe.config
+C:\Users\Admin\source\repos\nCrypt_\bin\Release\nCrypt.exe
+C:\Users\Admin\source\repos\nCrypt_\bin\Release\nCrypt.pdb
+C:\Users\Admin\source\repos\nCrypt_\bin\Release\nCrypt_Lib.dll
+C:\Users\Admin\source\repos\nCrypt_\obj\Release\nCrypt_.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\nCrypt_\obj\Release\nCrypt_.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\nCrypt_\obj\Release\nCrypt_.csproj.Up2Date
+C:\Users\Admin\source\repos\nCrypt_\obj\Release\nCrypt.exe
+C:\Users\Admin\source\repos\nCrypt_\obj\Release\nCrypt.pdb
