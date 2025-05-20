@@ -35,3 +35,25 @@ You can use **nCrypt Cipher** to either encrypt or decrypt a string using the fo
 
 ```bash
 nCrypt.exe -e "Hello World"
+```
+
+Output:
+
+```bash
+Encrypted Text:
+3765;3176;3267;3267;1938;\;0509;1938;2760;3267;3894
+```
+
+#### Decrypt a String
+
+```bash
+nCrypt.exe -d "3765;3176;3267;3267;1938;\;0509;1938;2760;3267;3894"
+```
+
+Output:
+
+```bash
+Decrypted Text:
+HELLO WORLD
+```
+
